@@ -1,0 +1,10 @@
+{
+	"exportData": true,
+	"filters": [
+		{
+			"runWith": "python",
+			"script": "./main.py",
+			"name": "shapescape:cgg_world_settings"
+		}
+	]
+}
