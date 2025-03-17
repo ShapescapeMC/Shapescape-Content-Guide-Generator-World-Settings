@@ -1,4 +1,5 @@
 {
+	"description": "Addon for the Content Guide Generator Filter that reads data from a the release_config file and pastes this into a world_settings.md template.",
 	"exportData": true,
 	"filters": [
 		{
